@@ -19,3 +19,4 @@ jobs:
           quest-editor-user-token: ${{ secrets.QUESTS_EDITOR_TOKEN }}
           quest-editor-user-email: ${{ secrets.QUESTS_EDITOR_EMAIL }}
           only-validate: true
+          wilco-engine-url: ${{ secrets.WILCO_ENGINE_URL }}
