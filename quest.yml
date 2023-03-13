@@ -1,18 +1,13 @@
 id: example_test1
-title: Funnel Drop
+title: Lorem ipsum
 subtitle: Find the cause of user traffic drop in production and fix it
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 summary: "your summary"
 level: beginner
 steps:
-  - funneldrop_analyze_data
-  - funneldrop_reproduce_locally
-  - funneldrop_fixing_bug_pr
+  - your_first_step
 duration: 1.5
 skills:
   - frontend
-  - debugging
-  - observability
-  - communication
 questDependency: docker_localsetup
 repository: https://github.com/trywilco/Anythink-Market-Public
