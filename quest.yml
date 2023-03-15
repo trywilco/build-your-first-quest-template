@@ -6,6 +6,7 @@ summary: "your summary"
 level: beginner
 steps:
   - your_first_step
+  - conditions_step
 duration: 1.5
 skills:
   - frontend
